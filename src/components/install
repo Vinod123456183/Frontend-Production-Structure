@@ -1,0 +1,19 @@
+<!-- 🚀 ✅ SHADCN “ADD ALL COMMON COMPONENTS” COMMANDS
+
+🔥 1. Core UI (MOST USED — START HERE)
+npx shadcn@latest add button input form dialog dropdown-menu table avatar badge toast tooltip
+
+📦 2. Layout & Navigation
+npx shadcn@latest add card separator sheet tabs breadcrumb menubar navigation-menu
+
+🎨 3. Data Display
+npx shadcn@latest add accordion alert skeleton progress hover-card calendar
+
+🧠 4. Advanced UI (Optional but PRO)
+npx shadcn@latest add popover command context-menu dropdown-menu switch slider
+
+📊 5. Form Enhancement
+npx shadcn@latest add checkbox radio-group label select textarea
+
+⚡ 6. Full “Almost Everything” One-Liner
+npx shadcn@latest add button input form dialog dropdown-menu table avatar badge toast tooltip card separator sheet tabs breadcrumb accordion alert skeleton progress popover command checkbox radio-group select textarea switch slider calendar hover-card
